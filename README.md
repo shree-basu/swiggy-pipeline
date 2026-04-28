@@ -193,3 +193,4 @@ The local simulation mirrors this architecture exactly — same stages, same dat
 
 Built as a portfolio project to demonstrate GCP Data Engineering concepts:
 Pub/Sub · GCS · Dataflow · BigQuery · Cloud Composer · Cloud DLP · IAM
+
