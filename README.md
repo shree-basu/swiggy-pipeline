@@ -1,4 +1,4 @@
-# Swiggy Restaurant Analytics Pipeline 🍕
+# GCP-Data-Pipeline-Swiggy-Analytics 🍕
 
 An end-to-end data engineering pipeline simulating a production-grade GCP architecture for Swiggy restaurant order analytics.
 
